@@ -1,4 +1,4 @@
-module github.com/google/gopacket
+module github.com/A1ne/gopacket
 
 go 1.13
 
